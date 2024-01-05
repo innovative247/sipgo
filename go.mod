@@ -1,4 +1,4 @@
-module github.com/emiago/sipgo
+module github.com/innovative247/sipgo
 
 go 1.19
 
